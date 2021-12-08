@@ -1,6 +1,3 @@
-### Resumo em Desenvolvimento 👋
-
-
 ![Airton Freitas](https://github-readme-stats.vercel.app/api?username=AirtonFreitas&show_icons=true)
 
 
@@ -11,7 +8,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airtonsiqueiradefreitas@gmail.com)
 
 
-## Aplicativos Publicados
+## Aplicativos Publicados  
+
 ### Aprendendo SQL
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendosql)
 
@@ -26,6 +24,15 @@ Tenho a intenção de progredir com o app, me aprofundando em outras querys que 
 Este foi meu primeiro aplicativo publicado. Foi desenvolvido em Java. Neste aplicativo temos recursos como Autenticação de Login e Database, onde uso o Firebase para tal comunicação.
 
 Não tenho a intenção de dar continuidade neste projeto. Por isso não publiquei ele no Google Play, somente na Amazon App Store.
+
+
+ ### Principais Linguagens
+ 
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=&type=&language=java&sort=)
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=&type=&language=kotlin&sort=)
+
+
 
 <!--
 **AirtonFreitas/AirtonFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
