@@ -33,7 +33,7 @@ Não tenho a intenção de dar continuidade neste projeto. Por isso não publiqu
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=&type=&language=kotlin&sort=)
 
 
-
+ 
 <!--
 **AirtonFreitas/AirtonFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
