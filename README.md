@@ -26,6 +26,10 @@ Este foi meu primeiro aplicativo publicado. Foi desenvolvido em Java. Neste apli
 Não tenho a intenção de dar continuidade neste projeto. Por isso não publiquei ele no Google Play, somente na Amazon App Store.
 
 
+## Aplicativos em Desenvolvimento
+###ShareList
+
+
  ### Principais Linguagens
  
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=&type=&language=java&sort=)
