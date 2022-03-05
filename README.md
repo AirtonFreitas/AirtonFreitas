@@ -18,6 +18,18 @@ Neste app eu ensino querys básicas como CREATE, INSERT, SELECT, UPDATE, DELETE 
 
 Tenho a intenção de progredir com o app, me aprofundando em outras querys que o SQLite me possibilitar.
 
+
+
+### ShareList
+[![Repositório](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://github.com/AirtonFreitas/ShareList)
+
+![homeApp](https://user-images.githubusercontent.com/47503233/151680024-0042dfc8-a10b-401a-8892-3ac27e906a6f.png)
+
+Vídeo dos testes:
+https://www.youtube.com/watch?v=DIRHzO6tOQs
+
+
+
 ### Controle Financeiro
 [![Amazon App Store](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.amazon.com/gp/product/B0875T7S3C)
 
@@ -26,14 +38,6 @@ Este foi meu primeiro aplicativo publicado. Foi desenvolvido em Java. Neste apli
 Não tenho a intenção de dar continuidade neste projeto. Por isso não publiquei ele no Google Play, somente na Amazon App Store.
 
 
-## Aplicativos em Desenvolvimento
-### ShareList
-[![Repositório](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://github.com/AirtonFreitas/ShareList)
-
-![homeApp](https://user-images.githubusercontent.com/47503233/151680024-0042dfc8-a10b-401a-8892-3ac27e906a6f.png)
-
-Vídeo dos testes:
-https://www.youtube.com/watch?v=DIRHzO6tOQs
 
 
 
