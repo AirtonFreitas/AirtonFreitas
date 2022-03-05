@@ -21,7 +21,7 @@ Tenho a intenção de progredir com o app, me aprofundando em outras querys que 
 
 
 ### ShareList
-[![Repositório](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://github.com/AirtonFreitas/ShareList)
+[![Repositório](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.iasoftwares.sharelist)
 
 Aplicativo de Listas online. Para login e armazenamento usei o Firebase do Google.
 Foram usados vários recursos diferentes para o desenvolvimento desse app. Dentro do repositório eu explico melhor.
