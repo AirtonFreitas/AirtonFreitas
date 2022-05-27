@@ -9,7 +9,7 @@
 
 
 
- ### Principais Linguagens
+ ### Principais Linguagens e Frameworks
  
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=&type=&language=java&sort=)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=&type=&language=kotlin&sort=)
