@@ -29,7 +29,7 @@
 ## Aplicativos Publicados  
 
 ### Aprendendo SQL
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendosql) MAIS DE 500 DOWNLOADS
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendosql) MAIS DE 1000 DOWNLOADS
 
 Este aplicativo foi desenvolvido em Java usando o banco de dados SQLite do próprio android para que o usuário possa fazer testes com as querys de banco de dados.
 Neste app eu ensino querys básicas como CREATE, INSERT, SELECT, UPDATE, DELETE e DROP. Ao Final do aplicativo temos um certificado onde é gerado um PDF para o aluno.
