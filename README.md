@@ -19,10 +19,8 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=&type=&language=kotlin&sort=)
 
 
-[![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
-
+[![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=sql&type=&language=&sort=)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=sql&type=&language=&sort=)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirtonFreitas)](https://github.com/anuraghazra/github-readme-stats)
 
