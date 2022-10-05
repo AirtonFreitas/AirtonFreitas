@@ -1,12 +1,15 @@
-![Airton Freitas](https://github-readme-stats.vercel.app/api?username=AirtonFreitas&show_icons=true)
-
-
 ## Contatos e Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airton-siqueira-85260b174/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/airtonsqf/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5531988680288/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airtonsiqueiradefreitas@gmail.com)
 
+
+
+![Airton Freitas](https://github-readme-stats.vercel.app/api?username=AirtonFreitas&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirtonFreitas)](https://github.com/anuraghazra/github-readme-stats)
 
 
  ### Principais Linguagens e Frameworks
@@ -21,8 +24,6 @@
 
 [![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=sql&type=&language=&sort=)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AirtonFreitas?tab=repositories&q=sql&type=&language=&sort=)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirtonFreitas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Aplicativos Publicados  
