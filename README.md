@@ -28,7 +28,7 @@ Um app para aprender **banco de dados SQL** na prática.
 ---
 
 ### 🐍 Aprendendo Python  
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.devlearningapps.aprendendopython)  
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendopyhton)  
 Aprenda **Python do zero até tópicos avançados** com:  
 - Aulas interativas e exercícios práticos  
 - **IDE integrada** para rodar códigos  
