@@ -1,69 +1,125 @@
-# Olá, seja bem vindo(a)!
+# Airton Freitas
 
-## 🚀 Sobre mim  
-Desenvolvedor mobile apaixonado por tecnologia e educação.  
-Atualmente dedico meu tempo ao desenvolvimento de aplicativos **educacionais interativos**, que já estão publicados no **Google Play** e na **App Store**, alcançando milhares de usuários.  
+**Mobile engineer · product builder · criador da [Dev Learning Apps](https://www.devlearningapps.com)**
 
-Todos os apps foram construídos **do zero**, de forma independente, englobando:  
-- Desenvolvimento mobile (Flutter/Dart, Android nativo, iOS)  
-- Integração com **Firebase** (login, autenticação, banco de dados, notificações)  
-- **Pagamentos in-app** (Google e Apple)  
-- **IDE integrada** para prática de código  
-- **Notificações push, aulas interativas, quizzes, áudios e provas com certificado**  
-- **Publicação e manutenção contínua nas lojas**  
+> Os apps são o meu currículo. Concebo, desenvolvo, publico e mantenho — sozinho, do zero ao pós-release.
 
-🔗 Confira todos em: [**DevLearningApps.com**](https://devlearningapps.com/)  
+Sou desenvolvedor mobile focado em produto. Meu trabalho público é um ecossistema de **30+ aplicativos** de programação no [Google Play](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendosql) e na [App Store](https://apps.apple.com/us/developer/airton-siqueira-de-freitas/id1809776051): aulas práticas, desafios, certificado e **IDE no celular** para escrever e executar código de verdade.
 
----
+O código dos produtos fica privado. O que está nas lojas é o que eu entrego.
 
-## 📱 Aplicativos Publicados  
-
-### 🎓 Aprendendo SQL  
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendosql)  
-Um app para aprender **banco de dados SQL** na prática.  
-- Querys como **CREATE, INSERT, SELECT, UPDATE, DELETE, DROP**  
-- Banco de dados **SQLite** embarcado  
-- **Certificado em PDF** gerado ao final  
+<p>
+  <a href="https://www.devlearningapps.com"><img src="https://img.shields.io/badge/Dev_Learning_Apps-0F172A?style=for-the-badge" alt="Dev Learning Apps"></a>
+  <a href="https://www.linkedin.com/in/airton-freitas-85260b174/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact@devlearningapps.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### 🐍 Aprendendo Python  
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendopyhton)  
-Aprenda **Python do zero até tópicos avançados** com:  
-- Aulas interativas e exercícios práticos  
-- **IDE integrada** para rodar códigos  
-- Áudios explicativos em vários idiomas  
-- Provas, desafios e certificado  
+## O que isso prova na prática
+
+Não é um tutorial. É um produto vivo, com aluno real, loja, pagamento e manutenção contínua.
+
+- **Flutter** em produção no Android e no iOS, com o mesmo padrão em dezenas de apps
+- **Conteúdo + produto**: trilhas do zero ao avançado, quizzes, áudio, provas e certificado
+- **IDE integrada**: o aluno escreve, executa e testa código no próprio celular
+- **Lojas de verdade**: in-app purchase, push, autenticação, analytics, reviews e releases
+- **Internacional**: apps em português, inglês, espanhol, francês e hindi
+- **Operação completa**: listing, screenshots, suporte e evolução contínua sem time de marketing atrás
+
+Se você quer ver como eu construo software, abra um app. Não um repositório.
 
 ---
 
-### 💙 Aprendendo Flutter  
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendoflutter)  
-Um app feito para ensinar **Flutter e Dart** de forma prática:  
-- Exemplos de código executáveis  
-- Exercícios práticos com IDE integrada  
-- Conteúdo em constante atualização  
+## Destaques
+
+| Produto | O que é | Lojas |
+| --- | --- | --- |
+| **[Dev Learning Studio](https://play.google.com/store/apps/details?id=com.airtonsiq.devlearningstudio)** | IDE no celular: 90+ linguagens, GitHub e execução de código | [Play](https://play.google.com/store/apps/details?id=com.airtonsiq.devlearningstudio) · [App Store](https://apps.apple.com/us/app/dev-learning-studio/id6761730552) |
+| **[Aprendendo SQL](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendosql)** | SQL na prática, com queries reais e certificado | [Play](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendosql) · [App Store](https://apps.apple.com/us/app/learning-sql/id6744893043) |
+| **[Aprendendo Python](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendopyhton)** | Python do zero ao avançado, com IDE no app | [Play](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendopyhton) · [App Store](https://apps.apple.com/us/app/learning-python-dla/id6747948627) |
+| **[Aprendendo Flutter](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendoflutter)** | Flutter e Dart com exemplos executáveis | [Play](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendoflutter) · [App Store](https://apps.apple.com/us/app/learn-flutter-app/id6746683178) |
+| **[Launch Test Devs](https://play.google.com/store/apps/details?id=com.airtonsiq.launchtestdevs)** | Testes fechados da Play: quem publica encontra quem testa | [Play](https://play.google.com/store/apps/details?id=com.airtonsiq.launchtestdevs) |
+
+Catálogo completo no site: **[devlearningapps.com/pt/apps](https://www.devlearningapps.com/pt/apps)**
 
 ---
 
-## 🌍 Contatos e Redes Sociais  
+## Apps de ensino
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airton-freitas-85260b174/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/airtonsqf/)  
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531988680288?text=Ol%C3%A1%2C%20vim%20do%20GitHub!)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airtonsiqueiradefreitas@gmail.com)  
+Cursos com aulas, prática e IDE no celular. Cada linha abre a ficha na Play.
+
+### Fundamentos
+
+[Lógica](https://play.google.com/store/apps/details?id=com.airtonsiq.learnlogic) ·
+[POO](https://play.google.com/store/apps/details?id=com.airtonsiq.learnoop) ·
+[SOLID](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendosolid) ·
+[Git](https://play.google.com/store/apps/details?id=com.airtonsiq.learngit) ·
+[Hardware](https://play.google.com/store/apps/details?id=com.airtonsiq.learnhardware)
+
+### Linguagens
+
+[Python](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendopyhton) ·
+[Java](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendojava) ·
+[C#](https://play.google.com/store/apps/details?id=com.airtonsiq.learncsharp) ·
+[C](https://play.google.com/store/apps/details?id=com.airtonsiq.learnc) ·
+[C++](https://play.google.com/store/apps/details?id=com.airtonsiq.learncpp) ·
+[Go](https://play.google.com/store/apps/details?id=com.airtonsiq.learngo) ·
+[Rust](https://play.google.com/store/apps/details?id=com.airtonsiq.learnrust) ·
+[Kotlin](https://play.google.com/store/apps/details?id=com.airtonsiq.learnkotlin) ·
+[Swift](https://play.google.com/store/apps/details?id=com.airtonsiq.learnswift) ·
+[Dart](https://play.google.com/store/apps/details?id=com.airtonsiq.learndart) ·
+[PHP](https://play.google.com/store/apps/details?id=com.airtonsiq.learnphp) ·
+[Ruby](https://play.google.com/store/apps/details?id=com.airtonsiq.learnruby) ·
+[R](https://play.google.com/store/apps/details?id=com.airtonsiq.learnr) ·
+[Delphi](https://play.google.com/store/apps/details?id=com.airtonsiq.learndelphi) ·
+[Visual Basic](https://play.google.com/store/apps/details?id=com.airtonsiq.learnvisualbasic)
+
+### Web e mobile
+
+[HTML](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendohtml) ·
+[CSS](https://play.google.com/store/apps/details?id=com.airtonsiq.learncss) ·
+[JavaScript](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendojavascript) ·
+[TypeScript](https://play.google.com/store/apps/details?id=com.airtonsiq.learntypescript) ·
+[React](https://play.google.com/store/apps/details?id=com.airtonsiq.learnreact) ·
+[React Native](https://play.google.com/store/apps/details?id=com.airtonsiq.learnreactnative) ·
+[Angular](https://play.google.com/store/apps/details?id=com.airtonsiq.learnangular) ·
+[Next.js](https://play.google.com/store/apps/details?id=com.airtonsiq.learnnextjs) ·
+[Flutter](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendoflutter)
+
+### Dados e APIs
+
+[SQL](https://play.google.com/store/apps/details?id=com.airtonsiq.aprendendosql) ·
+[APIs REST](https://play.google.com/store/apps/details?id=com.airtonsiq.learnapisrest) ·
+[Database Universe](https://play.google.com/store/apps/details?id=com.airtonsiq.databaseuniverse) ·
+[Docker](https://play.google.com/store/apps/details?id=com.airtonsiq.learndocker)
+
+### Outros produtos
+
+[Career Talk](https://play.google.com/store/apps/details?id=com.devlearningapps.careertalk) — simulação de entrevista com IA  
+[Launch Test Devs](https://play.google.com/store/apps/details?id=com.airtonsiq.launchtestdevs) — testadores para o período fechado da Play
+
+iOS: página do desenvolvedor na [App Store](https://apps.apple.com/us/developer/airton-siqueira-de-freitas/id1809776051).
 
 ---
 
-## 🛠️ Principais Linguagens e Frameworks  
+## Stack que uso para entregar isso
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()  
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()  
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()  
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()  
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()  
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)
+
+Flutter, Dart, Firebase, pagamentos nativos das lojas, analytics e o ciclo completo de publicação no Android e no iOS.
 
 ---
 
-✨ Confira todos os projetos em: [**DevLearningApps.com**](https://devlearningapps.com/)  
+## Contato
+
+- Site: [devlearningapps.com](https://www.devlearningapps.com)
+- LinkedIn: [airton-freitas](https://www.linkedin.com/in/airton-freitas-85260b174/)
+- Instagram: [@airtonsqf](https://www.instagram.com/airtonsqf/)
+- Email: [contact@devlearningapps.com](mailto:contact@devlearningapps.com)
+
+Belo Horizonte, Brasil.
