@@ -26,24 +26,21 @@ O código dos produtos fica privado. O que está nas lojas é o que eu entrego.
 
 ---
 
-## O que isso prova na prática
+## Site
 
-Não é um tutorial. É produto vivo, com aluno real, loja, pagamento e manutenção contínua.
+Tudo o que publico nas lojas também está em **[devlearningapps.com](https://www.devlearningapps.com/pt)**: catálogo dos apps, quiz para achar o caminho certo e a visão do ecossistema Dev Learning — IDE no celular, desafios e trilhas do básico ao avançado.
 
-- **Flutter** em produção no Android e no iOS
-- Trilhas do zero ao avançado, quizzes, áudio, provas e certificado
-- IDE no celular para o aluno escrever e rodar código
-- In-app purchase, push, autenticação, analytics, reviews e releases
-- Apps em português, inglês, espanhol, francês e hindi
-- Listing, screenshots, suporte e evolução contínua — sozinho
-
-Se você quer ver como eu construo software, abra as lojas. Não um repositório.
+<p align="center">
+  <a href="https://www.devlearningapps.com/pt">
+    <img src="https://img.shields.io/badge/devlearningapps.com-0F172A?style=for-the-badge" alt="Dev Learning Apps" height="48">
+  </a>
+</p>
 
 ---
 
 ## Contato
 
-- Site: [devlearningapps.com](https://www.devlearningapps.com)
+- Site: [devlearningapps.com](https://www.devlearningapps.com/pt)
 - LinkedIn: [airton-freitas](https://www.linkedin.com/in/airton-freitas-85260b174/)
 - Instagram: [@airtonsqf](https://www.instagram.com/airtonsqf/)
 - Email: [contact@devlearningapps.com](mailto:contact@devlearningapps.com)
